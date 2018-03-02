@@ -2,220 +2,220 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dd254792dd046c5cde010db88ab54e30e052078f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Charles\.android\build-cache\fb177734dc46bd6444dc7d8151c243210f999cb7\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_084527a629b56a5c206c79d04abc63183260c091\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_084527a629b56a5c206c79d04abc63183260c091.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\c6814225fc7be71ed4fc1b4a7aa4f7749a2dbf83\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Charles\AppData\Local\Android\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca32db190677627c10584ba8f559b14e1e18bba7\classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_253ef09f23556ae115f6089e0759c745fe044f51.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\f4600c8d4e18eb25b418945b8b5d988217beccd3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff687982b4c1ddc14a9a75dc22eb87b4717a2cd3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\9ab0622b02238a343487126486b90312a357afd3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40fc6184018491d79205b48df9a28dfb995172f1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Charles\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.4.0_26bbfdd05c00e4225e9988b5628bf8e207d737f5\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\support-annotations-25.4.0_26bbfdd05c00e4225e9988b5628bf8e207d737f5.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\262302ebde2d1e40f47dac85247d5f6dda1b9d17\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\9ab0622b02238a343487126486b90312a357afd3\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6398a4dfe9702e4badf7d6a4d6c2ae96b3412110\classes.dex" />
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_40fc6184018491d79205b48df9a28dfb995172f1.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\ea0757276a6f7fe7db72623a0cace930296906aa\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8271d6d655f6aad3bd724b64fc02a3ceafda37b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\2dffda9e14908d608959a42dfadf9232f08a070d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82501291c5ca7c1965da73fb4eeb8c6362bd1477\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\67f57e73abf7c8d80a8f57e448d5241f1fd6eb79\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e30336132cd5074bda4e41eb2ce69cf85872e86f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\de07c5ff06149b38e83eebce17ee7070c1137291\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_984426b4e08f59cccd7a34f093a312ceb0b2b6be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Charles\.android\build-cache\d681a22b1bdc91865fb4a3840876ccb46aa4894f\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c895a273b1c6168b10f4fe3dcd8ab941bd0a1ef\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_3c895a273b1c6168b10f4fe3dcd8ab941bd0a1ef.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\ea0757276a6f7fe7db72623a0cace930296906aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_8271d6d655f6aad3bd724b64fc02a3ceafda37b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Charles\.android\build-cache\12ca41dd96e37349741dfe8e073e9527a75b2caa\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ae87ff21191711c3e80d8791093c4b057331902\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_5ae87ff21191711c3e80d8791093c4b057331902.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\2dffda9e14908d608959a42dfadf9232f08a070d\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="e405a2ee15e9da0bdc2c5a9f9ac46bd4ee8c3352">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6df653ae80d53d722a760fd213be278747ad298d\classes.dex" />
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_82501291c5ca7c1965da73fb4eeb8c6362bd1477.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\93d2978eda98d4a4793620030c7b2eac592015e5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4c7ae71635bc01106510405d40ebd674c298d99\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Charles\.android\build-cache\36e07b78e4ab1610108e6663d6e549d630911092\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7cdedefc72fa4e17ecb9774a1c760067d8ef7ac\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_d7cdedefc72fa4e17ecb9774a1c760067d8ef7ac.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Charles\.android\build-cache\d45f33269eb03c87f2aa8e1929cdbaa8d17448d6\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="4961be1437163ab598620a3c907c0f3432936f51">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d969590a39bfea584503616ed3b28bdea96b7aa\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_5d969590a39bfea584503616ed3b28bdea96b7aa.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\a30c60bd3e52702238589fc88ab651529b865bf1\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\93d2978eda98d4a4793620030c7b2eac592015e5\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_feaf8568f370405fe1ebc42036b0d59f30d4adad\classes.dex" />
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_e4c7ae71635bc01106510405d40ebd674c298d99.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\74b89201d00bb7f36dec033927c36bcf0c9c0484\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b7a8626faa4add21b25076e03991ded57d62677\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\6b5d6d0832071551ed8c06e690bc04321959f0b0\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea681c20d8a018926d96b97f9d8085303f56269d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Charles\.android\build-cache\c50b8f97cb574ebaafcb270a0010737cbd1e4206\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16ab51e5c45b97f96c7de006f53e3e99782c4286\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_16ab51e5c45b97f96c7de006f53e3e99782c4286.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Charles\.android\build-cache\9e60dc523d457f33610b12c654ef647b2ec9efcc\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\6b5d6d0832071551ed8c06e690bc04321959f0b0\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b3dd3b32902490ebc799a98d20a818cf50efa20\classes.dex" />
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_ea681c20d8a018926d96b97f9d8085303f56269d.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Charles\.android\build-cache\f107b85c1d191cb7fbda8bbdf9d49f505e09794c\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33317979d027eb68a1247ffed6376f8793307929\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_33317979d027eb68a1247ffed6376f8793307929.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Charles\.android\build-cache\3bde1f9710ed700b0cac60c7ea38613bdcb28e59\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
-        <dex dex="C:\Users\Charles\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_820abb04e4979d5fb7eb91e9932601fe2bec13c1\classes.dex" />
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_820abb04e4979d5fb7eb91e9932601fe2bec13c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\9e60dc523d457f33610b12c654ef647b2ec9efcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_6b3dd3b32902490ebc799a98d20a818cf50efa20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\262302ebde2d1e40f47dac85247d5f6dda1b9d17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_6398a4dfe9702e4badf7d6a4d6c2ae96b3412110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\c6814225fc7be71ed4fc1b4a7aa4f7749a2dbf83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_ca32db190677627c10584ba8f559b14e1e18bba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\de07c5ff06149b38e83eebce17ee7070c1137291\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_984426b4e08f59cccd7a34f093a312ceb0b2b6be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\f4600c8d4e18eb25b418945b8b5d988217beccd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_ff687982b4c1ddc14a9a75dc22eb87b4717a2cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\be734e87b7dc2ce85579372bcee7be130ba6653a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_b353f81e15c314fdcefe5534b4f431c54f7cfed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\67f57e73abf7c8d80a8f57e448d5241f1fd6eb79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_e30336132cd5074bda4e41eb2ce69cf85872e86f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\a30c60bd3e52702238589fc88ab651529b865bf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_feaf8568f370405fe1ebc42036b0d59f30d4adad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charles\.android\build-cache\74b89201d00bb7f36dec033927c36bcf0c9c0484\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\SnapchatUI\app\build\intermediates\pre-dexed\debug\classes_1b7a8626faa4add21b25076e03991ded57d62677.jar" />
     </item>
 
 </items>

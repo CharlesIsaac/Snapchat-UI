@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.here.name.website.myapplication">
+    package="com.here.name.website.SnapchatUI">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 

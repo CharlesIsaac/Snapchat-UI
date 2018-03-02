@@ -15,10 +15,10 @@
     android:background="@color/blue"
      />
 
-    <!--<android.support.v4.view.ViewPager-->
-        <!--android:id="@+id/activityMain_viewPager"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="match_parent"/>-->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/activityMain_viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 <com.here.name.website.SnapchatUI.view.SnapTabs
     android:id="@+id/am_snap_tabs"
