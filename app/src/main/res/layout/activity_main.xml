@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.here.name.website.SnapchatUI.MainActivity"
+    android:background="#000000">
+
+<View
+    android:id="@+id/activityMain_Background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+     />
+
+    <!--<android.support.v4.view.ViewPager-->
+        <!--android:id="@+id/activityMain_viewPager"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"/>-->
+
+<com.here.name.website.SnapchatUI.view.SnapTabs
+    android:id="@+id/am_snap_tabs"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="16dp"/>
+
+</RelativeLayout>

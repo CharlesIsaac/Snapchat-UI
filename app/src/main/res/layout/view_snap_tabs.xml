@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="184dp"
+    tools:layout_gravity="bottom"
+    tools:background="@color/darkTeal">
+
+    <ImageView
+        android:id="@+id/centerButton"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_gravity="center|bottom"
+        android:src="@drawable/large_circle"
+        android:layout_marginBottom="96dp"/>
+
+    <ImageView
+        android:id="@+id/leftButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="56dp"
+        android:layout_marginStart="24dp"
+        android:layout_gravity="start|bottom"
+        android:src="@drawable/ic_chat_bubble_24dp"/>
+
+    <ImageView
+        android:id="@+id/rightButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="56dp"
+        android:layout_marginEnd="24dp"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/ic_toys_24dp"/>
+    <ImageView
+        android:id="@+id/bottomButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="48dp"
+        android:layout_gravity="center|bottom"
+        android:src="@drawable/small_circle"/>
+<View
+    android:id="@+id/indicator"
+    android:layout_width="48dp"
+    android:layout_height="4dp"
+    android:layout_gravity="bottom|center"
+    android:layout_marginBottom="44dp"
+    android:background="@drawable/indicator_background"/>
+</FrameLayout>
